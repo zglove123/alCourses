@@ -1,0 +1,5 @@
+Django==3.1.1
+mysqlclient
+pillow
+django-pure-pagination
+django-debug-toolbar
